@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/sachin-srinivas.github.io/static/css/main.5ab050d7.css",
+    "main.js": "/sachin-srinivas.github.io/static/js/main.5ddf11b4.js",
+    "static/js/787.7da95b79.chunk.js": "/sachin-srinivas.github.io/static/js/787.7da95b79.chunk.js",
+    "static/media/first-sach.jpg": "/sachin-srinivas.github.io/static/media/first-sach.c0b159d35a6eeb5f520f.jpg",
+    "static/media/sach.jpg": "/sachin-srinivas.github.io/static/media/sach.3f18ad28f0f2e17cce27.jpg",
+    "static/media/jumbobg1.png": "/sachin-srinivas.github.io/static/media/jumbobg1.12ae1bdcc9998a9a53ad.png",
+    "index.html": "/sachin-srinivas.github.io/index.html",
+    "main.5ab050d7.css.map": "/sachin-srinivas.github.io/static/css/main.5ab050d7.css.map",
+    "main.5ddf11b4.js.map": "/sachin-srinivas.github.io/static/js/main.5ddf11b4.js.map",
+    "787.7da95b79.chunk.js.map": "/sachin-srinivas.github.io/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ab050d7.css",
+    "static/js/main.5ddf11b4.js"
+  ]
+}
