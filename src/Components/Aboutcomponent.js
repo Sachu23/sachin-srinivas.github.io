@@ -184,14 +184,14 @@ class About extends Component{
                                     <div className="col-12 col-sm-2">
                                         <MouseParallaxContainer>
                                         <MouseParallaxChild factorX={0.1} factorY={0.1} >
-                                        <img className="iconstyle mg-fluid mx-auto d-block" src="/images/icons/tf.png" width="80px"></img>
+                                        <img className="iconstyle mg-fluid mx-auto d-block" src={process.env.PUBLIC_URL + '/images/icons/tf.png'} width="80px"></img>
                                         </MouseParallaxChild>
                                         </MouseParallaxContainer>
                                     </div>
                                     <div className="col-12 col-sm-2">
                                         <MouseParallaxContainer>
                                         <MouseParallaxChild factorX={0.1} factorY={0.1} >
-                                        <img className="iconstyle mg-fluid mx-auto d-block" src="/images/icons/django.png" width="130px"></img>
+                                        <img className="iconstyle mg-fluid mx-auto d-block" src={process.env.PUBLIC_URL + '/images/icons/django.png'} width="130px"></img>
                                         </MouseParallaxChild>
                                         </MouseParallaxContainer>
                                     </div>
@@ -200,21 +200,21 @@ class About extends Component{
                                     <div className="col-12 col-sm-2">
                                         <MouseParallaxContainer>
                                         <MouseParallaxChild factorX={0.1} factorY={0.1} >
-                                        <img className="iconstyle mg-fluid mx-auto d-block" src="/images/icons/mongo.png" width="70px"></img>
+                                        <img className="iconstyle mg-fluid mx-auto d-block" src={process.env.PUBLIC_URL + '/images/icons/mongo.png" width="70px'}></img>
                                         </MouseParallaxChild>
                                         </MouseParallaxContainer>
                                     </div>
                                     <div className="col-12 col-sm-2">
                                         <MouseParallaxContainer>
                                         <MouseParallaxChild factorX={0.1} factorY={0.1} >
-                                        <img className="iconstyle mg-fluid mx-auto d-block" src="/images/icons/keras.png" width="120px"></img>
+                                        <img className="iconstyle mg-fluid mx-auto d-block" src={process.env.PUBLIC_URL + '/images/icons/keras.png" width="120px'}></img>
                                         </MouseParallaxChild>
                                         </MouseParallaxContainer>
                                     </div>
                                     <div className="col-12 col-sm-2">
                                         <MouseParallaxContainer>
                                             <MouseParallaxChild factorX={0.1} factorY={0.1} >
-                                                <img className="iconstyle mg-fluid mx-auto d-block" src="/images/icons/scitkitlearn.png" width="125px"></img>
+                                                <img className="iconstyle mg-fluid mx-auto d-block" src={process.env.PUBLIC_URL + '/images/icons/scitkitlearn.png'} width="125px"></img>
                                             </MouseParallaxChild>
                                         </MouseParallaxContainer>
                                     </div>
