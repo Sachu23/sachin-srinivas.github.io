@@ -222,7 +222,7 @@ class About extends Component{
                                     <div className="col-12 col-sm-2">
                                         <MouseParallaxContainer>
                                         <MouseParallaxChild factorX={0.1} factorY={0.1} >
-                                        <img className="iconstyle mg-fluid mx-auto d-block" src="/images/icons/flask.png" width="90px"></img>
+                                        <img className="iconstyle mg-fluid mx-auto d-block" src="../images/icons/flask.png" width="90px"></img>
                                         </MouseParallaxChild>
                                         </MouseParallaxContainer>
                                     </div>
