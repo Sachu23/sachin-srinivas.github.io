@@ -150,7 +150,7 @@ const Contact = () => {
                                 />
                                 <Marker position={position} icon={geticon()}>
                                     <Popup>
-                                        Bangalore, India
+                                        Chicago, USA
                                     </Popup>
                                 </Marker>
                             </MapContainer>

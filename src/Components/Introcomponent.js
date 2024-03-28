@@ -24,7 +24,7 @@ class Intro extends Component{
                         </div>
                         <p className="justify">
                         
-I'm Sachin Srinivas, a passionate coder pursuing a Master's in Computer Science. With over three years of experience in Software Development, I have a strong understanding of the software development life cycle. My expertise spans Cloud Computing, Web Development, and Machine Learning.
+I'm Sachin Srinivas, a passionate coder pursuing a Master's in Computer Science. With over three years of experience in Software Development, I have a strong understanding of the software development life cycle. My expertise spans across Cloud Computing, Web Development, and Machine Learning.
                         </p>
                     </div>
                     <div className="col-sm-6">
