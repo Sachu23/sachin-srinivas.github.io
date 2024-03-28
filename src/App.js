@@ -12,7 +12,7 @@ function App() {
     setloading(true)
     setTimeout(() => {
       setloading(false)
-    }, 1000);
+    }, 3000);
   }, [])
 
   useEffect(() => {
@@ -20,7 +20,7 @@ function App() {
     const timeout = setTimeout(() => {
       // Set state to show MainComponent after loading
       setShowMainComponent(true);
-    }, 3000); // Assuming a loading time of 2 seconds
+    }, 4000); // Assuming a loading time of 2 seconds
 
     return () => clearTimeout(timeout);
   }, []);
@@ -37,7 +37,7 @@ function App() {
     :
     (
       <div className="App-header">
- 
+        
         <Fade>
           <Maincomponent/>
         </Fade>
