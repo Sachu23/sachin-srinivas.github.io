@@ -24,8 +24,7 @@ class Intro extends Component{
                         </div>
                         <p className="justify">
                         
-I'm Sachin Srinivas, a passionate coder pursuing a Master's in Computer Science. With over three years of experience in Software Development, I have a strong understanding of the software development life cycle. My expertise spans across Cloud Computing, Web Development, and Machine Learning.
-                        </p>
+                        I’m Sachin Srinivas, a passionate software engineer with over six years of experience in software development. I specialize in building scalable, resilient distributed systems and have a deep understanding of the software development life cycle. My expertise extends across backend engineering, cloud computing, and high-performance computing, enabling me to design efficient, fault-tolerant solutions. I’m driven by innovation and problem-solving, constantly seeking to optimize systems for performance and reliability. Whether it's working with large-scale data processing, AI-driven applications, or enhancing infrastructure, I thrive on tackling complex engineering challenges.                        </p>
                     </div>
                     <div className="col-sm-6">
                         <div className="card cardborder w-100 cardstyling text-center ">
